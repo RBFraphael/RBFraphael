@@ -1,30 +1,30 @@
-## 🌍 Language / Idioma  
-[🇺🇸 English](README.md) | [🇧🇷 Portuguese](README.pt.md)
+## 🌍 Idioma / Language  
+[🇧🇷 Português](README.pt.md) | [🇺🇸 English](README.md)
 
-# 👋 Hi, I'm Raphael!
+# 👋 Olá, eu sou o Raphael!
 
-I'm a **fullstack developer** with over **8 years of experience**, passionate about technology, clean code, and continuous learning. I work across the entire development cycle — backend, frontend, mobile, desktop, and DevOps. My academic background is focused on **game development**, but my professional focus today is on building **scalable and robust web applications**.
+Sou um desenvolvedor **fullstack** com mais de **8 anos de experiência**, apaixonado por tecnologia, boas práticas e aprendizado contínuo. Atuo em todo o ciclo de desenvolvimento — do back ao front, incluindo DevOps, mobile e desktop. Minha base acadêmica é voltada ao desenvolvimento de **jogos digitais**, mas hoje foco minha carreira em **aplicações web escaláveis** e robustas.
 
-🎮 *Games are still a creative hobby that fuels my passion for design, logic, and performance.*
-
----
-
-## 🧠 Academic Background
-
-- 🎓 Technical Degree in Digital Games  
-- 🎓 Bachelor's in Digital Game Development  
-- 🎓 Specialization in Game Design  
+🎮 *Jogos continuam sendo um hobby criativo que alimenta minha paixão por design, lógica e performance.*
 
 ---
 
-## 💻 Main Tech Stack
+## 🧠 Formação Acadêmica
 
-### Languages  
+- 🎓 Técnico em Jogos Digitais  
+- 🎓 Tecnólogo em Desenvolvimento de Jogos Digitais  
+- 🎓 Especialização em Game Design  
+
+---
+
+## 💻 Stack Principal
+
+### Linguagens  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Frameworks & Libraries  
+### Frameworks & Bibliotecas  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
@@ -34,12 +34,12 @@ I'm a **fullstack developer** with over **8 years of experience**, passionate ab
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)  
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
 
-### Databases  
+### Banco de Dados  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Other Tools  
+### Outros  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
@@ -47,11 +47,11 @@ I'm a **fullstack developer** with over **8 years of experience**, passionate ab
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-🐧 I'm also a long-time **Linux** user — by choice and for productivity.
+🐧 Usuário de **Linux** por paixão e produtividade.
 
 ---
 
-## 🚀 Currently Studying / Interested In
+## 🚀 Tecnologias que estou estudando/interessado
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
@@ -74,19 +74,19 @@ I'm a **fullstack developer** with over **8 years of experience**, passionate ab
 
 ---
 
-## 📍 Location
+## 📍 Localização
 
-📌 **São Paulo, SP – Brazil**
+📌 **São Paulo, SP – Brasil**
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
-- 🌐 Website: [rbfraphael.github.io](https://rbfraphael.github.io)  
+- 🌐 Site: [rbfraphael.github.io](https://rbfraphael.github.io)  
 - 💼 LinkedIn: [linkedin.com/in/rbfraphael](https://linkedin.com/in/rbfraphael)  
-- 📧 Email: [rbfraphael@gmail.com](mailto:rbfraphael@gmail.com)  
+- 📧 E-mail: [rbfraphael@gmail.com](mailto:rbfraphael@gmail.com)  
 - 💬 WhatsApp: [+55 (11) 96928-6032](https://wa.me/5511969286032)
 
 ---
 
-🎮 _“My academic roots are in games, my career is in software — and in both, creativity and technique go hand in hand.”_
+🎮 _“Minha formação vem dos games, minha atuação é no mundo do software — e em ambos, criatividade e técnica caminham lado a lado.”_
